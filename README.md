@@ -7,7 +7,8 @@ Link online para acesso em tempo real: https://viniciusfonsecapr.github.io/Order
 <br>
 [x] Aonde tinhamos que de construir a interface do pedido, teriamos que deixa-la responsiva(Funcionando em celulares sem cortes de conteúdo)
             
-                                                                     📜REQUISITOS
+                                                                     📜REQUISITOS  <br>
+                                                                     
 📑 Imagens de como era para ficar com alguns estados ao passar sobre itens:
 
 ![active-states](https://user-images.githubusercontent.com/87347314/145906266-fd352754-9154-4109-90c8-e906c604771c.jpg)
@@ -18,7 +19,8 @@ Link online para acesso em tempo real: https://viniciusfonsecapr.github.io/Order
 
 
 
-                                                                      🏆RESULTADO FINAL OBTIDO
+                                                                      🏆RESULTADO FINAL OBTIDO <br>
+                                                                      
 📑 Imagens do projeto final executado:
 
 ![ResultadoFinal](https://user-images.githubusercontent.com/87347314/145906836-21c0a032-9186-4e56-a94f-77c590dd9d81.png)
