@@ -1,5 +1,8 @@
 # Order summary component - Tela para ordem de compra em um aplicativo. 
 
+Link online para acesso em tempo real: https://viniciusfonsecapr.github.io/Order-summary-component/
+
+
 🎯 Desafio é construir este componente do cartão de resumo do pedido de um app de musica por exemplo.
 <br>
 [x] Aonde tinhamos que de construir a interface do pedido, teriamos que deixa-la responsiva(Funcionando em celulares sem cortes de conteúdo)
