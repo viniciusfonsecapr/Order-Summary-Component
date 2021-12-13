@@ -12,3 +12,10 @@
 📑 Imagens de como era para ficar no desktop:
 
 ![desktop-design](https://user-images.githubusercontent.com/87347314/145906120-6c3967b6-5834-4b8a-8e60-d0975557a8f2.jpg)
+
+
+
+                                                                      🏆RESULTADO FINAL OBTIDO
+📑 Imagens do projeto final executado:
+
+![ResultadoFinal](https://user-images.githubusercontent.com/87347314/145906836-21c0a032-9186-4e56-a94f-77c590dd9d81.png)
