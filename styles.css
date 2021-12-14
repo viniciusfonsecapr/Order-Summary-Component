@@ -152,6 +152,8 @@ h3 {
     }
     .img-hero {
         width: 320px;
+        height: 150px;
+        border-radius: 15px 15px 0 0;
     }
 
 }
@@ -169,6 +171,8 @@ h3 {
     }
     .img-hero {
         width: 300px;
+        height: 120px;
+        border-radius: 15px 15px 0 0;
     }
 
 }
